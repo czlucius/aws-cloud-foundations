@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aurora.md",
+                "file": "Module 7/S3.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,7 +136,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "0b4cff115fcb068b",
@@ -152,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aurora.md",
+                "file": "Module 7/S3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aurora.md",
+                "file": "Module 7/S3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aurora.md"
+                "file": "Module 7/S3.md"
               }
             }
           }
@@ -215,9 +216,14 @@
   },
   "active": "973a73f7d033e51a",
   "lastOpenFiles": [
-    "AWS RDS.md",
+    "Module 7/EBS.md",
+    "Module 7/S3.md",
+    "Pasted image 20230628150711.png",
     "Database-engines.png",
+    "Pasted image 20230628145755.png",
     "Aurora.md",
+    "Module 7",
+    "AWS RDS.md",
     "Database-engines 1 1.png",
     "Lab 5/Lab 5.md",
     "Pasted image 20230628142902.png",
@@ -235,7 +241,6 @@
     "Lab 5",
     "SUMMARY.md",
     "README.md",
-    "Pasted image 20230628112124.png",
     "AWS.md"
   ]
 }
