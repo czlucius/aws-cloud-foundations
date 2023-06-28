@@ -1,4 +1,5 @@
 [Student Guide](https://awsacademy.instructure.com/courses/45181/modules/items/3885326)
+
 ## About
 Amazon Aurora is a MySQL & PostgreSQL compatible relational DB for the cloud.
 (it only supports MySQL and PostgreSQL.)
