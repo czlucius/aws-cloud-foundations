@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "acdde8f6d014f377",
+    "type": "split",
+    "children": [
+      {
+        "id": "57205e3de0f0f765",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f36f815e037e621c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f764755c8f55dc25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS RDS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f28ba93452802a3a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "49ec15131efa5e56",
+    "type": "split",
+    "children": [
+      {
+        "id": "25418fc6d85ceccc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd9acdb604f71f71",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c1153b545d23503f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d7a92461fed605f5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0b4cff115fcb068b",
+    "type": "split",
+    "children": [
+      {
+        "id": "31be338cc98709ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f80e0bc5a27b7b4b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d4b8a65c71021c42",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "180e57d7fe26de92",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c2311a214a2c6eca",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "fd9acdb604f71f71",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "AWS.md",
+    "AWS RDS.md",
+    "Pasted image 20230628105537.png",
+    "Pasted image 20230628105520.png",
+    "README.md",
+    "Pasted image 20230628103811.png"
+  ]
+}
