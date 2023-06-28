@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "59c10d8b6fb7c30a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Redshift.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f28ba93452802a3a",
             "type": "leaf",
             "state": {
@@ -52,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -119,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DynamoDB.md",
+                "file": "Redshift.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DynamoDB.md",
+                "file": "Redshift.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DynamoDB.md"
+                "file": "Redshift.md"
               }
             }
           }
@@ -180,19 +192,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "87aaaddb455a5835",
+  "active": "59c10d8b6fb7c30a",
   "lastOpenFiles": [
+    "Pasted image 20230628113926.png",
+    "DynamoDB.md",
+    "Redshift.md",
+    "Pasted image 20230628112737.png",
+    "Pasted image 20230628112146.png",
+    "Pasted image 20230628112124.png",
     "Pasted image 20230628111945.png",
     "Pasted image 20230628111840.png",
     "Pasted image 20230628111550.png",
     "Pasted image 20230628110915.png",
     "AWS RDS.md",
-    "DynamoDB.md",
     "Pasted image 20230628105858.png",
     "AWS.md",
     "Pasted image 20230628105537.png",
     "Pasted image 20230628105520.png",
-    "README.md",
-    "Pasted image 20230628103811.png"
+    "README.md"
   ]
 }
