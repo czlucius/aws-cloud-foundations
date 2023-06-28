@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "87aaaddb455a5835",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DynamoDB.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f28ba93452802a3a",
             "type": "leaf",
             "state": {
@@ -40,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "0b4cff115fcb068b",
@@ -106,6 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DynamoDB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DynamoDB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +158,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DynamoDB.md"
+              }
             }
           }
         ]
@@ -163,11 +180,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fd9acdb604f71f71",
+  "active": "87aaaddb455a5835",
   "lastOpenFiles": [
-    "Untitled.md",
-    "AWS.md",
+    "Pasted image 20230628111945.png",
+    "Pasted image 20230628111840.png",
+    "Pasted image 20230628111550.png",
+    "Pasted image 20230628110915.png",
     "AWS RDS.md",
+    "DynamoDB.md",
+    "Pasted image 20230628105858.png",
+    "AWS.md",
     "Pasted image 20230628105537.png",
     "Pasted image 20230628105520.png",
     "README.md",
