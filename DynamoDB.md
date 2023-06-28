@@ -1,3 +1,4 @@
+[Student Guide](https://awsacademy.instructure.com/courses/45181/modules/items/3885326)
 ### Short intro: RDB vs non-RDB
 ![[Pasted image 20230628105858.png]]
 

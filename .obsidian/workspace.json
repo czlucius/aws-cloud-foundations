@@ -68,6 +68,18 @@
             }
           },
           {
+            "id": "e3e619b416bda505",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Redshift.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f28ba93452802a3a",
             "type": "leaf",
             "state": {
@@ -76,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -142,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lab 5/Lab 5.md",
+                "file": "Redshift.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lab 5/Lab 5.md",
+                "file": "Redshift.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lab 5/Lab 5.md"
+                "file": "Redshift.md"
               }
             }
           }
@@ -203,10 +215,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "973a73f7d033e51a",
+  "active": "e3e619b416bda505",
   "lastOpenFiles": [
-    "Lab 5/lab-5-starting-lab-architecture.png",
+    "DynamoDB.md",
+    "AWS RDS.md",
+    "Aurora.md",
     "Lab 5/Lab 5.md",
+    "Lab 5/lab-5-starting-lab-architecture.png",
     "Pasted image 20230628115827.png",
     "Pasted image 20230628115753.png",
     "Lab 5/README.htm",
@@ -218,14 +233,11 @@
     "Lab 5",
     "SUMMARY.md",
     "README.md",
-    "Untitled.md",
-    "DynamoDB.md",
     "Pasted image 20230628112124.png",
     "Pasted image 20230628113926.png",
     "Pasted image 20230628112737.png",
     "Pasted image 20230628112146.png",
     "Pasted image 20230628111945.png",
-    "AWS RDS.md",
     "AWS.md"
   ]
 }

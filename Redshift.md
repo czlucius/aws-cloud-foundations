@@ -1,3 +1,4 @@
+[Student Guide](https://awsacademy.instructure.com/courses/45181/modules/items/3885326)
 Redshift is a fully managed data warehouse for **data analysis** using using standard SQL/Business Intelligence(BI) tools.
 > Google Cloud equivalent: BigQuery
 ![[Pasted image 20230628112124.png]]
