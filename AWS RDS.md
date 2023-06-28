@@ -1,4 +1,5 @@
 [Student Guide](https://awsacademy.instructure.com/courses/45181/modules/items/3885326)
+
 AWS RDS is a Relational Database Service, a.k.a. a service for structured SQL databases.
 It uses MySQL, PostgreSQL, etc.
 ## Managed vs Unmanaged services
@@ -75,4 +76,3 @@ The DB is billed by the clock-hour, based on characteristics
 - Reserved instances (1y or 3y)
 	- 1y fee always > 3y, no mattery AURI, PURI, or NURI.
 Number of DB instances also matter, you can provision multiple instances for peak load.
-
