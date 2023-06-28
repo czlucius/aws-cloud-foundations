@@ -1,4 +1,6 @@
-https://awsacademy.instructure.com/courses/45181/modules/items/3885326
+[Student Guide](https://awsacademy.instructure.com/courses/45181/modules/items/3885326)
+AWS RDS is a Relational Database Service, a.k.a. a service for structured SQL databases.
+It uses MySQL, PostgreSQL, etc.
 ## Managed vs Unmanaged services
 - EC2 vs RDS
 - EC2 is an unmanaged solution.
@@ -40,6 +42,8 @@ This can help to enhance availability when there's **system maintenance, DB inst
 - Complex Transcations/queries
 - Medium-high query/write rate (max. 30,000 IOPS)
 - Max 1 worker node/shard.
+	- [Partition](https://en.wikipedia.org/wiki/Shard_(database_architecture))
+	- 1 DB with multiple partitions (like subroutines)
 - High durability.
 
 ### Don't use when:
@@ -54,7 +58,7 @@ This can help to enhance availability when there's **system maintenance, DB inst
 
 ## Billing
 The DB is billed by the clock-hour, based on characteristics
-- Engine
+- Engine (e.g. MySQL)
 - Size
 - Memory class
 
