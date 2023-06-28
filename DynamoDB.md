@@ -37,7 +37,7 @@ See 2nd image below.
 Data is being partitioned by the primary key.
 Data can be retrieved in these 2 ways:
 1. Query op. takes advantage of partitioning to locate items using primary key
-	1. Access the item by using the key as the index????
+	1. Access the item by using the key as the index
 2. Scanning, locating items with non-key attributes
 	1. Less efficient
 
