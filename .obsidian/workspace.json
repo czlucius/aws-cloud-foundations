@@ -136,8 +136,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "0b4cff115fcb068b",
@@ -214,8 +213,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "973a73f7d033e51a",
+  "active": "fd9acdb604f71f71",
   "lastOpenFiles": [
+    "Pasted image 20230703011353.png",
+    "Pasted image 20230703011304.png",
+    "Pasted image 20230703011252.png",
+    "Pasted image 20230703011034.png",
+    "Pasted image 20230703010524.png",
+    "Pasted image 20230703005304.png",
     "Module 7/EBS.md",
     "Module 7/S3.md",
     "Pasted image 20230628150711.png",
@@ -230,12 +235,7 @@
     "Untitled.md",
     "Redshift.md",
     "DynamoDB.md",
-    "Lab 5/lab-5-starting-lab-architecture.png",
-    "Pasted image 20230628115827.png",
-    "Pasted image 20230628115753.png",
     "Lab 5/README.htm",
-    "Lab 5/README_files/lab-5-starting-lab-architecture.png",
-    "Lab 5/README_files/lab-5-final-lab-architecture.png",
     "Lab 5/README_files/css.css",
     "Lab 5/README_files",
     "Lab 5",
