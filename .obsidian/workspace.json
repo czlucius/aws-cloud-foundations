@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module 7/S3.md",
+                "file": "Module 7/EFS.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,7 +136,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "0b4cff115fcb068b",
@@ -152,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Module 7/S3.md",
+                "file": "Module 7/EFS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Module 7/S3.md",
+                "file": "Module 7/EFS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Module 7/S3.md"
+                "file": "Module 7/EFS.md"
               }
             }
           }
@@ -213,8 +214,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fd9acdb604f71f71",
+  "active": "973a73f7d033e51a",
   "lastOpenFiles": [
+    "Pasted image 20230703012245.png",
+    "Pasted image 20230703011849.png",
+    "Module 7/S3.md",
+    "Module 7/EFS.md",
     "Pasted image 20230703011353.png",
     "Pasted image 20230703011304.png",
     "Pasted image 20230703011252.png",
@@ -222,16 +227,13 @@
     "Pasted image 20230703010524.png",
     "Pasted image 20230703005304.png",
     "Module 7/EBS.md",
-    "Module 7/S3.md",
     "Pasted image 20230628150711.png",
     "Database-engines.png",
     "Pasted image 20230628145755.png",
     "Aurora.md",
     "Module 7",
     "AWS RDS.md",
-    "Database-engines 1 1.png",
     "Lab 5/Lab 5.md",
-    "Pasted image 20230628142902.png",
     "Untitled.md",
     "Redshift.md",
     "DynamoDB.md",
