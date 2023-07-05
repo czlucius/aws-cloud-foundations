@@ -47,4 +47,4 @@ access EFS within the same VPC, multiple AZs
 
 ## Key takeaways
 
-![Key takeaways](Pasted%20image%2020230703012245.png)
+![Key takeaways](/Pasted%20image%2020230703012245.png)
