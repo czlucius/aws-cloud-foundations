@@ -15,7 +15,7 @@ When changing a character in a large file:
 |Block|Object|
 |------|-------|
 |Change 1 block that contains the character|Entire file must be updated|
-![image](Pasted%20image%2020230628145755.png)
+![image](/Pasted%20image%2020230628145755.png)
 ## Information
 - create indiv. storage volumes, and attach to EC2.
 - Volumes auto replicated within AZ
@@ -56,5 +56,5 @@ EBS Volumes are encrypted at no extra cost
 > NOTE: a boot volume cannot be changed without stopping and starting the associated EC2 Instance.
 
 ## Key takeaways
-![](Pasted%20image%2020230628150711.png)
+![image](/Pasted%20image%2020230628150711.png)
 [^1]: https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/requesting-ebs-volume-modifications.html
