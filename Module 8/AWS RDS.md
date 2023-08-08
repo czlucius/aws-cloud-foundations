@@ -16,14 +16,14 @@ Challenges of self hosting or using EC2 to host relational DB:
 
 ## Deployment
 Generally, RDS is launched in private subnets, as sensitive data may be within RDS. This is within a VPC (Virtual Private Cloud).
-RDS is launched as DB instances in AWS Cloud.
+RDS is launched as DB instances in AWS Cloud.  
 ![image](/Pasted%20image%2020230628105537.png)
 
 ### Availability
 High availability can be achieved by using a Multi-AZ deployment.
 AWS autogenerates a standby copy of the DB in another AZ in the same VPC. 
 Transactions are synchronously replicated to the standby copy.
-This can help to enhance availability when there's **system maintenance, DB instance failure and AZ disruption.**  
+This can help to enhance availability when there's **system maintenance, DB instance failure and AZ disruption.**    
 ![image](/Pasted%20image%2020230628105520.png)
 
 ### Read replicas
