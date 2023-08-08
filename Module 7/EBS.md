@@ -15,7 +15,7 @@ When changing a character in a large file:
 |Block|Object|
 |------|-------|
 |Change 1 block that contains the character|Entire file must be updated|
-![](Pasted%20image%2020230628145755.png)
+![image](Pasted%20image%2020230628145755.png)
 ## Information
 - create indiv. storage volumes, and attach to EC2.
 - Volumes auto replicated within AZ

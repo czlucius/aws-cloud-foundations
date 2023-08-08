@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS RDS.md",
+                "file": "Module 8/AWS RDS.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DynamoDB.md",
+                "file": "Module 8/DynamoDB.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DynamoDB.md",
+                "file": "Module 8/DynamoDB.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aurora.md",
+                "file": "Module 8/Aurora.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,55 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module 10/Autoscaling.md",
+                "file": "Module 8/Aurora.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bee980016bfaf357",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Module 8/DynamoDB.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3187cfc0787c5313",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Module 8/Aurora.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "717a7563330782f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Module 8/Aurora.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8032aa6c3b101b4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Module 8/Redshift.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +174,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -155,7 +203,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "![[",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -172,7 +220,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -192,7 +241,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Module 10/Autoscaling.md",
+                "file": "Module 8/Redshift.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +258,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Module 10/Autoscaling.md",
+                "file": "Module 8/Redshift.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +281,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Module 10/Autoscaling.md"
+                "file": "Module 8/Redshift.md"
               }
             }
           }
@@ -253,39 +302,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fd9acdb604f71f71",
+  "active": "c1153b545d23503f",
   "lastOpenFiles": [
-    "Module 10/Elastic Load Balancing.md",
+    "Lab 5/Lab 5.md",
+    "Module 8/DynamoDB.md",
+    "Module 8/Redshift.md",
+    "Module 8/Aurora.md",
+    "Module 8/AWS RDS.md",
+    "Database-engines.png",
     "Module 10/Autoscaling.md",
+    "Module 8",
+    "Untitled.md",
+    "Module 9/Pasted image 20230708134937.png",
+    "Module 7/EBS.md",
+    "Module 7/EFS.md",
+    "Module 10/Elastic Load Balancing.md",
+    "Module 10/Pasted image 20230712104946.png",
+    "Module 10/Amazon CloudWatch.md",
+    "Module 9/Well Architected Framework.md",
+    "Module 9/Reliability & Availability.md",
+    "Module 9/Trusted Advisor.md",
+    "Module 9/Untitled.md",
     "README.md",
     "Module 10/Pasted image 20230712105506.png",
     "Module 10/Pasted image 20230712105349.png",
     "Module 10/Pasted image 20230712105005.png",
-    "Module 10/Pasted image 20230712104946.png",
-    "Module 10/Amazon CloudWatch.md",
-    "Module 9/Well Architected Framework.md",
     "Module 10",
-    "Module 9/Pasted image 20230708134937.png",
-    "Module 9/Reliability & Availability.md",
-    "Module 9/Trusted Advisor.md",
     "Module 7/S3 Glacier.md",
     "Module 7/Pasted image 20230705171919.png",
     "Module 7/S3.md",
     "Module 7/Pasted image 20230705170553.png",
-    "Database-engines.png",
-    "Aurora.md",
-    "AWS RDS.md",
-    "DynamoDB.md",
     "Module 7/Pasted image 20230705165109.png",
     "Module 7/Pasted image 20230705165047.png",
-    "Module 7/EFS.md",
     "Module 7/README.md",
-    "Module 9/Untitled.md",
     "Module 9",
-    "Module 7/EBS.md",
     "Module 7",
-    "Lab 5/Lab 5.md",
-    "Redshift.md",
     "Lab 5/README.htm",
     "Lab 5/README_files/css.css",
     "Lab 5/README_files",

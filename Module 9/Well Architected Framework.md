@@ -13,6 +13,9 @@ The Framework consists 6 pillars.
 > - Efficient
 
 ## Pillars
+6 Pillars
+Operational Excellence, Security, Reliability, Performance Efficiency, Cost Optimisation, Sustainability
+
 1. Operational Excellence
 	1. Automate changes
 	2. Respond to events
@@ -42,7 +45,10 @@ The Framework consists 6 pillars.
 - Data protection
 - Incident response
 ![Security Qns](Pasted%20image%2020230708134937.png)
-1. Reliability
+
+ 
+ 
+3. Reliability
 > How can you ensure that your processes are reliable?
 
 - Auto recover from failure
