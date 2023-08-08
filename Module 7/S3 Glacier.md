@@ -50,7 +50,7 @@ Console
 
 **REST/(Java/.NET) SDK/CLI:**
 - Everything console does
-- **Other operations & interactions**
+- **Other operations & interactions**  
 ![glacier access](Pasted%20image%2020230705165047.png)
 ## Lifecycle policies
 Delete/move object based on age
