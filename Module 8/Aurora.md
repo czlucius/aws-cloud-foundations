@@ -31,6 +31,6 @@ Works seamlessly with AWS DB Migration Svc & AWS Schema Conv. tool
 
 
 ## Key Takeaways
-![image](Pasted%20image%2020230628142902.png)
+![image](/Pasted%20image%2020230628142902.png)
 
 [^1]: https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/CHAP_AuroraOverview.html
