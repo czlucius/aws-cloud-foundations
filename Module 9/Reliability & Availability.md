@@ -18,8 +18,8 @@ Number of 9s
 If application is not operating normally, including **scheduled** interruptions and unscheduled, availability is reduced.
 
 ## High availability
-![Hi avail](Pasted%20image%2020230705110447.png)
-- 
+![Hi avail](/Pasted%20image%2020230705110447.png)
+
 ## Tiers
 ![Tiers](/Pasted%20image%2020230705110653.png)  
 Depends on your plan.
