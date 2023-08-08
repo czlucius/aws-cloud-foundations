@@ -2,6 +2,8 @@
 
 Redshift is a fully managed data warehouse for **data analysis** using using standard SQL/Business Intelligence(BI) tools.
 > Google Cloud equivalent: BigQuery
+
+
 ![image](Pasted%20image%2020230628112124.png)
 ## Parallel processing architecture
 
