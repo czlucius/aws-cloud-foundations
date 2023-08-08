@@ -20,7 +20,7 @@ The Framework consists 6 pillars.
 
 - Perform operations as code
 	- Use API/SDK as much as possible - manual mgmt prone to human error
-- Make small and reversible changes
+- **Make small and reversible changes**
 - Anticipate failure
 	- Prepare if e.g. site is down due to AZ failure, so e.g. multiple AZ...
 - Learn from operational events & failures
@@ -33,8 +33,16 @@ The Framework consists 6 pillars.
 	3. Protecting systems
 	4. Manage who can do what
 	5. Establishing controls to detect security events
-
-3. Reliability
+3. 
+### 6 areas to focus on:
+- Security
+- Identity& Access Management
+- Detection
+- Infrastructure protection
+- Data protection
+- Incident response
+![Security Qns](Pasted%20image%2020230708134937.png)
+1. Reliability
 > How can you ensure that your processes are reliable?
 
 - Auto recover from failure
@@ -50,9 +58,17 @@ The Framework consists 6 pillars.
 	- Use automation to make infra changes
 
 
+**Assume everything will FAIL.**
+### 4 key areas:
+- Foundations
+- Workload architecture
+- Change management
+- Failure management
+
+
 4.  Performance Efficiency
 	1. Democratise advanced tech
-		1. As many people as possible are able to do
+		1. As many people as possible are able (have the skills) to work on the stack/architecture
 		2. akin to PCs [democratising technology](https://en.wikipedia.org/wiki/Democratization_of_technology) for the masses
 	2. Go global in minutes
 		1. Deploy systems in multiple regions (better experience)
@@ -67,6 +83,12 @@ The Framework consists 6 pillars.
 			4. etc etc etc
 	5. [Mechanical Sympathy](https://wa.aws.amazon.com/wat.concept.mechanical-sympathy.en.html)
 
+### 4 Areas to focus on:
+- Monitoring 
+- Selection
+- Trade-offs
+- Review
+
 ![Perf eff. qns](Pasted%20image%2020230705105600.png)
 
 5. Cost optimisation
@@ -78,6 +100,13 @@ The Framework consists 6 pillars.
 	5. Analyse and attribute expenditure
 		1. Cloud is easier to identify system usage cost
 		2. Measure ROI
+
+### 5 areas to focus on:
+- Cloud financial management
+- Expenditure & usage awareness
+- Cost effective resources
+- Manage demand and supply resources
+- Optimise over time
 ![Cost optimisation qns](Pasted%20image%2020230705105941.png)
 
 
