@@ -1,3 +1,4 @@
+# ELB
 - a load balancer to distribute traffic.
 
 ## What does it do?
@@ -13,7 +14,10 @@
 - Lambda functions
 
 ## Types
-OSI - PDNTSPA (mnemonic: please do not take sausage pizza away)
+OSI - PDNTSPA  
+Physical, Data Link, Network, Transport, Session, Presentation, and Application.
+> (mnemonic: please do not take sausage pizza away)
+
 - Application Load Balancer (OSI 4)
 	- **Ideal for HTTP(S) traffic**
 	- Uses SSL to encrypt transmission
