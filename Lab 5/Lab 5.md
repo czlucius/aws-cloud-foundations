@@ -20,12 +20,13 @@ This lab takes approximately **30 minutes**.
 
 **Scenario**
 
-You start with the following infrastructure:
-![img](Pasted image 20230628115753.png)
+You start with the following infrastructure:  
+
+![img](/Pasted%20image%2020230628115753.png)
 
 At the end of the lab, this is the infrastructure:
 
-![image](Pasted%20image%2020230628115827.png)
+![image](/Pasted%20image%2020230628115827.png)
 
 ---
 
