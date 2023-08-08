@@ -15,9 +15,10 @@ https://awsacademy.instructure.com/courses/45181/modules/items/3885315
 - Elastic cap
 
 
-## Arch
+## Architecture
 
 ![arch](/Pasted%20image%2020230703011849.png)
+
 access EFS within the same VPC, multiple AZs
 
 
