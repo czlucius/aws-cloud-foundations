@@ -25,7 +25,12 @@ OSI - PDNTSPA (mnemonic: please do not take sausage pizza away)
 
 
 ## How ELB works
-// TODO!
+- Accepts traffic from clients and routes requests to targets (e.g. EC2, Network IP)
+- Specify 1 or more listeners
+	- A process that checks for connection requests
+	- Protocol and port number
+- Health checks
+	- Only send requests to healthy instances
 
 ## Use-cases
 - High availability & better fault tolerance
