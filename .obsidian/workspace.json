@@ -155,7 +155,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module 8/Redshift.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -203,7 +203,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "![[",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -220,8 +220,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -241,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Module 8/Redshift.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -258,7 +257,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Module 8/Redshift.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -281,7 +280,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Module 8/Redshift.md"
+                "file": "README.md"
               }
             }
           }
@@ -302,11 +301,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c1153b545d23503f",
+  "active": "8032aa6c3b101b4c",
   "lastOpenFiles": [
+    "Module 8/Redshift.md",
     "Lab 5/Lab 5.md",
     "Module 8/DynamoDB.md",
-    "Module 8/Redshift.md",
     "Module 8/Aurora.md",
     "Module 8/AWS RDS.md",
     "Database-engines.png",
